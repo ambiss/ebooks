@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<!--?
+xml version="1.0" encoding="utf-8"?--><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<link rel="stylesheet" type="text/css" href="../Styles/reset.css" />
+  	<title>Uma Lacônica das Duas Naturezas de Cristo Jesus</title>
+</head>
+
+<body>
+  	<header>
+		<h1 class="title">Capítulo 1</h1>
+		<h2 class="subtitle">As Duas Naturezas do Senhor</h2>			
+	</header>
+
+	<article>
+		<section>
+			<p class="text">
+				O assunto das duas naturezas do Senhor tem sido de alguma maneira discutido, o que é positivo, pois aproxima esse assunto aos muitos irmãos. Contudo, tenho percebido que ainda há muita confusão, e várias conclusões diversas que, na verdade, representam um perigo significativo. A maioria dos cristãos compreende a divindade de Cristo sem maiores problemas, tanto entre os católicos romanos, ortodoxos, Igreja Oriental e os evangélicos protestantes. Isso é muito bom. No entanto, há percepções que se misturam e tornam o assunto inconclusivo em muitos aspectos.
+
+Neste caso, os teólogos parecem mais complicar  do que resolver as dúvidas do novo convertido, utilizando expressões e palavras-chave de difícil compreensão. Acredito que seria melhor deixar essas coisas de lado, mesmo que isso signifique tornar o papel do professor ou discipulador mais simples. O importante é que a verdade seja compreendida de forma mais clara.
+
+Embora alguns termos possam aparecer nesta matéria, eles serão tratados de forma periférica. Nosso principal objetivo é transmitir a verdade teológica da maneira mais simples possível. Posteriormente, após os cristãos terem alcançado certo entendimento por meio da leitura anterior, podemos abordar algumas terminologias técnicas. Portanto, apresentaremos essas terminologias no final deste artigo, pressupondo que o leitor já tenha adquirido o devido entendimento prévio.
+			</p>
+		</section>
+	</article>
+</body>
+</html>
